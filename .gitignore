@@ -13,12 +13,12 @@ Data/
 # OS specific
 .DS_Store
 
-# Outputs/Quarto
-Outputs/
+# Outputs
+# Outputs/
 # I want PDFs to generally push to the repository.
 # *.pdf
-*.html
-*.docx
+# *.html
+# *.docx
 
 # The PyCharm project specific .idea files should be ignored.
 /.idea/.gitignore
