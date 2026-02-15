@@ -28,3 +28,8 @@ Outputs/
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/Projects - STA 6703 - Statistical Learning with Big Data.iml
 /.idea/vcs.xml
+
+# Quarto Specific files.
+_quarto.yml
+/.quarto/
+**/*.quarto_ipynb
