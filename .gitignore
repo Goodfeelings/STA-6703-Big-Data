@@ -33,3 +33,4 @@ Outputs/
 _quarto.yml
 /.quarto/
 **/*.quarto_ipynb
+/.idea/dictionaries/project.xml
