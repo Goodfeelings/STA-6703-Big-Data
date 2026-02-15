@@ -1,3 +1,30 @@
+# Environments
 .venv/
-.DS_Store
+.env
+
+# Large Data (Essential for Big Data class)
 Data/
+*.csv
+*.parquet
+*.json
+*.xls
+*.xlsx
+
+# OS specific
+.DS_Store
+
+# Outputs/Quarto
+Outputs/
+# I want PDFs to generally push to the repository.
+# *.pdf
+*.html
+*.docx
+
+# The PyCharm project specific .idea files should be ignored.
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/Projects - STA 6703 - Statistical Learning with Big Data.iml
+/.idea/vcs.xml
